@@ -1,2 +1,4 @@
 undo
 .netrwhist
+bundle
+!bundle/vundle
